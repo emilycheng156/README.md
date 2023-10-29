@@ -9,7 +9,7 @@
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - 🎓 Sophomore at [University of Maryland](https://umd.edu/)
-- 📫 Email Me at emilycheng.3@gmail.com
+
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
