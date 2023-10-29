@@ -13,11 +13,11 @@
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
-<a href="https://github.com/myname/">
+<a href="https://github.com/emilycheng156">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/mylinkedin/">
+<a href="https://www.linkedin.com/in/emily-c-cheng">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="mailto:mygmail@gmail.com">
+<a href="mailto:emilycheng.3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 </div>
 
