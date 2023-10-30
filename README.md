@@ -27,7 +27,7 @@
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description .... . More information on the assignment
 
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)]https://github.com/emilycheng156/blackjack-game](https://github.com/emilycheng156/blackjack-game)) 
+<br>[![Source Code](https://github.com/emilycheng156/blackjack-game)]
 
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>
