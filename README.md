@@ -6,7 +6,7 @@
 <img align="right" alt="Data Analyst Emily Cheng" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns she/her
-- 🌱 Learning **Data Science**
+- 🌱 Learning **Statistics and Data Science**
 - 🔭 Exploring `ML` in `AI`
 - 🎓 Sophomore at [University of Maryland](https://umd.edu/)
 
@@ -27,7 +27,7 @@
 > <img align="right" alt="" src="images/assignmento_.gif" height="200" />
 > Project Description .... . More information on the assignment
 
-<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/myalias/mysource) 
+<br>[![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://[github.com/myalias/mysource](https://github.com/emilycheng156/blackjack-game)) 
 
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>
